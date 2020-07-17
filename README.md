@@ -1,5 +1,5 @@
 ### Gabriel Carneiro de Arruda | <a href="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg">
-  <img align="left" alt="Linkedin" width="22px" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg" />
+  <img align="left" alt="Linkedin" width="22px" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg" alt="css3" style="vertical-align:top; margin:4px"/>
 </a>
 ### Ponta Grossa - PR | CEP: 84010-000 | Brasil
 <a href="https://www.linkedin.com/in/gabriel-carneiro-0310a2196/">
