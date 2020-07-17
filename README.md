@@ -1,23 +1,16 @@
-##  __Welcome to my profile__ 👋
 ### Gabriel Carneiro de Arruda | <gabrielarruda08@gmail.com>
 ### Ponta Grossa - PR | CEP: 84010-000 | Brasil
-
-#### Computer Technician for Internet - IFPR :computer
-#### Analysis and Systems Sevelopment - UTFPR  | 4/6
 <a href="https://www.linkedin.com/in/gabriel-carneiro-0310a2196/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-#### [LinkedIn](https://www.linkedin.com/in/gabriel-carneiro-0310a2196/ "LinkedIn")
+#### Computer Technician for Internet - IFPR 
+#### Analysis and Systems Sevelopment - UTFPR  | 4/6
 
 ## __Knowledge__
-1. Javascript
-2. C
-3. Java
-4. HTML
-5. CSS
-6. SCRUM
-7. Cucumber
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:4px"></br>
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px"> </br>
+
 
 
 <!--
