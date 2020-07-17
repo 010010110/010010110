@@ -1,6 +1,6 @@
 ### Gabriel Carneiro de Arruda | 
 <a href="https://www.linkedin.com/in/gabriel-carneiro-0310a2196/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Linkedin" width="22px" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" />
 </a>
 <a href="mailto:gabrielarruda08@gmail.com">
   <img alt="gabrielarruda08@gmail.com" style="vertical-align:top; margin:4px" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg" />
