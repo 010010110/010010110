@@ -1,7 +1,7 @@
-### Gabriel Carneiro de Arruda | <gabrielarruda08@gmail.com> | <a href="https://www.linkedin.com/in/gabriel-carneiro-0310a2196/">
+### Gabriel Carneiro de Arruda | <a href="https://www.linkedin.com/in/gabriel-carneiro-0310a2196/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a> | <a href="mailto:gabrielarruda08@gmail.com">
-  <img align="left" alt="gabrielarruda08@gmail.com" width="22px" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg" />
+  <img alt="gabrielarruda08@gmail.com" style="vertical-align:top; margin:4px" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg" />
 </a></br>
 ### Ponta Grossa - PR | CEP: 84010-000 | Brasil
 
