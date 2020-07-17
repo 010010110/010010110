@@ -4,7 +4,7 @@
 
 #### Computer Technician for Internet - IFPR :computer
 #### Analysis and Systems Sevelopment - UTFPR  | 4/6
-#### {LinkedIn}(https://www.linkedin.com/in/gabriel-carneiro-0310a2196/ "LinkedIn")
+#### [LinkedIn](https://www.linkedin.com/in/gabriel-carneiro-0310a2196/ "LinkedIn")
 
 ## __Knowledge__
 1. Javascript
