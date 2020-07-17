@@ -4,6 +4,10 @@
 
 #### Computer Technician for Internet - IFPR :computer
 #### Analysis and Systems Sevelopment - UTFPR  | 4/6
+<a href="https://www.linkedin.com/in/gabriel-carneiro-0310a2196/">
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
 #### [LinkedIn](https://www.linkedin.com/in/gabriel-carneiro-0310a2196/ "LinkedIn")
 
 ## __Knowledge__
