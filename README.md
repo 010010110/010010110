@@ -1,4 +1,6 @@
-### Gabriel Carneiro de Arruda | <gabrielarruda08@gmail.com>
+### Gabriel Carneiro de Arruda | <a href="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg">
+  <img align="left" alt="Linkedin" width="22px" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg" />
+</a>
 ### Ponta Grossa - PR | CEP: 84010-000 | Brasil
 <a href="https://www.linkedin.com/in/gabriel-carneiro-0310a2196/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -7,9 +9,19 @@
 #### Computer Technician for Internet - IFPR 
 #### Analysis and Systems Sevelopment - UTFPR  | 4/6
 
-## __Knowledge__
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:4px"></br>
+### __Knowledge__
+
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px"> </br>
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px"> </br>
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:4px"> </br>
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:4px"></br>
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px"> </br>
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" alt="node.js" style="vertical-align:top; margin:4px"> </br>
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px"> </br>
+
+
+
+
 
 
 
