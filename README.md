@@ -1,10 +1,12 @@
-### Gabriel Carneiro de Arruda | <a href="https://www.linkedin.com/in/gabriel-carneiro-0310a2196/">
+### Gabriel Carneiro de Arruda | 
+<a href="https://www.linkedin.com/in/gabriel-carneiro-0310a2196/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a> | <a href="mailto:gabrielarruda08@gmail.com">
+</a>
+<a href="mailto:gabrielarruda08@gmail.com">
   <img alt="gabrielarruda08@gmail.com" style="vertical-align:top; margin:4px" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg" />
 </a></br>
-### Ponta Grossa - PR | CEP: 84010-000 | Brasil
 
+### Ponta Grossa - PR | CEP: 84010-000 | Brasil
 
 #### Computer Technician for Internet - IFPR 
 #### Analysis and Systems Sevelopment - UTFPR  | 4/6
