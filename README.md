@@ -28,7 +28,7 @@
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px"> </br>
 
 
-A desobediência é uma virtude necessária à CRIATIVIDADE.
+_A desobediência é uma virtude necessária à CRIATIVIDADE._</br>
 <cite> --Raul Seixas. </cite>
 
 
