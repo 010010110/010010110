@@ -1,5 +1,5 @@
-## Gabriel Carneiro de Arruda
-### Ponta Grossa - PR | CEP: 84010-000 | Brasil
+## Gabriel Carneiro de Arruda | 1998 :sheep:
+### Ponta Grossa - PR | CEP: 84010-000 | Brasil :earth_americas:
 <a href="https://www.linkedin.com/in/gabriel-carneiro-0310a2196/">
   <img alt="linkedIn" style="vertical-align:top; margin:4px" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" />
 </a>
@@ -11,8 +11,8 @@
 </a>
 </br>
 
-#### Computer Technician for Internet - Intituto Federal do Parana IFPR | 2013-2015
-#### Analysis and Systems Sevelopment - Universidade Tecnologica Federal do Parana UTFPR  | 2018/2 - 2021/2
+#### Computer Technician for Internet - Intituto Federal do Parana IFPR | 2013-2015 :mortar_board:
+#### Analysis and Systems Sevelopment - Universidade Tecnologica Federal do Parana UTFPR  | 2018/2 - 2021/2 :mortar_board:
 
 ### __Knowledge__
 
@@ -25,22 +25,11 @@
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px"> </br>
 
 
-<p>link for icons https://github.com/MikeCodesDotNET/ColoredBadges</p>
-
-
 
 
 <!--
 **010010110/010010110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+link para icones 
+link for icons
+https://github.com/MikeCodesDotNET/ColoredBadges
 -->
