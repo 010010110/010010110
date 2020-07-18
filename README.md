@@ -13,9 +13,9 @@
 </a>
 </br></br>
 
-### __Professional Qualification__
-#### Computer Technician for Internet - Instituto Federal do Paraná IFPR | 2013-2015 :mortar_board:
-#### Analysis and Systems Sevelopment - Universidade Tecnológica Federal do Paraná UTFPR  | 2018/2 - 2021/2 :mortar_board:
+### __Professional Qualification__:motar_board:
+#### Computer Technician for Internet - Instituto Federal do Paraná IFPR | 2013-2015 :computer:
+#### Analysis and Systems Sevelopment - Universidade Tecnológica Federal do Paraná UTFPR  | 2018/2 - 2021/2 :computer:
 </br>
 
 ### __Knowledge__
