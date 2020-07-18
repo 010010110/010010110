@@ -1,7 +1,6 @@
 ## __Gabriel Carneiro de Arruda | 1998__ :sheep:
 ### __Ponta Grossa - PR | CEP: 84010-000 | Brasil__ :earth_americas:
-
-#### __Contact Me__
+</br>
 <a href="https://www.linkedin.com/in/gabriel-carneiro-0310a2196/">
   <img alt="linkedIn" style="vertical-align:top; margin:4px" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" />
 </a>
@@ -16,8 +15,7 @@
 ### __Professional Qualification__
 #### Computer Technician for Internet - Intituto Federal do Parana IFPR | 2013-2015 :mortar_board:
 #### Analysis and Systems Sevelopment - Universidade Tecnologica Federal do Parana UTFPR  | 2018/2 - 2021/2 :mortar_board:
-
-
+</br></br>
 ### __Knowledge__
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px"> </br>
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px"> </br>
