@@ -1,6 +1,7 @@
-## Gabriel Carneiro de Arruda | 1998 :sheep:
-## Ponta Grossa - PR | CEP: 84010-000 | Brasil :earth_americas:
+## __Gabriel Carneiro de Arruda | 1998__ :sheep:
+### __Ponta Grossa - PR | CEP: 84010-000 | Brasil__ :earth_americas:
 
+#### __Contact Me__
 <a href="https://www.linkedin.com/in/gabriel-carneiro-0310a2196/">
   <img alt="linkedIn" style="vertical-align:top; margin:4px" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" />
 </a>
@@ -17,7 +18,6 @@
 #### Analysis and Systems Sevelopment - Universidade Tecnologica Federal do Parana UTFPR  | 2018/2 - 2021/2 :mortar_board:
 
 ### __Knowledge__
-
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px"> </br>
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px"> </br>
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:4px"> </br>
