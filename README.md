@@ -28,8 +28,8 @@
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px"> </br>
 
 
-_Não é possível ser bom pela metade._</br>
-<cite> --Leon Tolstói. </cite>
+_Às vezes o homem prefere o sofrimento à paixão._</br>
+<cite> --Fiódor Dostoiévski. </cite>
 
 
 <!--
