@@ -6,7 +6,6 @@
 <a href="mailto:gabrielarruda08@gmail.com">
   <img alt="gabrielarruda08@gmail.com" style="vertical-align:top; margin:4px" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg" />
 </a>
-https://api.whatsapp.com/send?1=pt_BR&phone=5542999911311
 <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5542999911311">
   <img alt="whatsapp" style="vertical-align:top; margin:4px" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/whatsapp.svg" />
 </a>
