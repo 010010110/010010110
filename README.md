@@ -26,10 +26,10 @@
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px"> </br>
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" alt="node.js" style="vertical-align:top; margin:4px">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px"> </br>
-
+</br></br></br>
 
 _Às vezes o homem prefere o sofrimento à paixão._</br>
-<cite> --Fiódor Dostoiévski. </cite>
+<cite size="2">                     --Fiódor Dostoiévski. </cite>
 
 
 <!--
