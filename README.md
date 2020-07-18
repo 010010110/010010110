@@ -1,5 +1,5 @@
-## @color[green]__Gabriel Carneiro de Arruda | 1998__ :sheep:
-### __Ponta Grossa - PR | CEP: 84010-000 | Brasil__ :earth_americas: :brazil:
+## __Gabriel Carneiro de Arruda | 1998__ :sheep:
+#### __Ponta Grossa - PR | CEP: 84010-000 | Brasil__ :earth_americas: :brazil:
 
 </br>
 <a href="https://www.linkedin.com/in/gabriel-carneiro-0310a2196/">
