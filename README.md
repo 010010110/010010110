@@ -11,8 +11,8 @@
 </a>
 </br>
 
-#### Computer Technician for Internet - IFPR 
-#### Analysis and Systems Sevelopment - UTFPR  | 4/6
+#### Computer Technician for Internet - Intituto Federal do Parana IFPR | 2013-2015
+#### Analysis and Systems Sevelopment - Universidade Tecnologica Federal do Parana UTFPR  | 2018/2 - 2021/2
 
 ### __Knowledge__
 
@@ -25,7 +25,7 @@
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px"> </br>
 
 
-
+<p>link for icons https://github.com/MikeCodesDotNET/ColoredBadges</p>
 
 
 
