@@ -28,8 +28,8 @@
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px"> </br>
 </br></br></br>
 
-_Às vezes o homem prefere o sofrimento à paixão._</br>
-<cite><font size="1">:--Fiódor Dostoiévski. </font></cite>
+>_Às vezes o homem prefere o sofrimento à paixão._</br>
+><cite><font size="1">--Fiódor Dostoiévski. </font></cite>
 
 
 <!--
