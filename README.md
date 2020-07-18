@@ -16,7 +16,7 @@
 ### __Professional Qualification__
 #### Computer Technician for Internet - Instituto Federal do Paraná IFPR | 2013-2015 :mortar_board:
 #### Analysis and Systems Sevelopment - Universidade Tecnológica Federal do Paraná UTFPR  | 2018/2 - 2021/2 :mortar_board:
-</br></br>
+</br>
 ### __Knowledge__
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px"> </br>
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px"> </br>
