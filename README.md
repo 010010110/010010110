@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/gabriel-carneiro-0310a2196/">
   <img alt="linkedIn" style="vertical-align:top; margin:4px" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" />
 </a>
-<a href="mailto:gabrielarruda08@gmail.com">
+<a href="gabrielarruda08@gmail.appspotmail.com">
   <img alt="gabrielarruda08@gmail.com" style="vertical-align:top; margin:4px" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg" />
 </a>
 <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5542999911311">
