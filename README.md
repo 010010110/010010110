@@ -29,7 +29,7 @@
 </br></br></br>
 
 >_Às vezes o homem prefere o sofrimento à paixão._</br>
-><cite><font size="1">--Fiódor Dostoiévski. </font></cite>
+>                            --Fiódor Dostoiévski.
 
 
 <!--
