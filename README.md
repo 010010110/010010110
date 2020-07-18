@@ -1,6 +1,4 @@
---?color=#b7410e
-
-## __Gabriel Carneiro de Arruda | 1998__ :sheep:
+## @color[green]__Gabriel Carneiro de Arruda | 1998__ :sheep:
 ### __Ponta Grossa - PR | CEP: 84010-000 | Brasil__ :earth_americas: :brazil:
 
 </br>
