@@ -28,9 +28,6 @@
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px"> </br>
 </br></br></br>
 
->_Às vezes o homem prefere o sofrimento à paixão._</br>
->                            --Fiódor Dostoiévski.
-
 
 <!--
 **010010110/010010110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
